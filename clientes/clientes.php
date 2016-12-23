@@ -14,5 +14,11 @@
     		<li>Alexi Rodriguez</li>
     		<li>Manuel Henriquez</li>
     	</ol>
+
     </body>
+    <footer>
+    	<p>Contacto</p>
+    	<p>Curso control de versiones</p>
+    	<a href="Fotosdelmomoenpelota.com">Paginas asociadas</a>
+    </footer>
 </html>
